@@ -3,7 +3,7 @@ package Test;
 import java.util.*;
 public class Fibonacci {
 
-/*費氏數列範例：
+/* 費 式 數 列
 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89.....*/
 
 
