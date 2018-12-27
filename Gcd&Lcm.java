@@ -1,7 +1,7 @@
 package Test;
 
 import java.util.*;
-public class TEST3 {
+public class Gcd&Lcm {
 	/*程そ计籔程そ计*/
 	
 	public static void main(String[] args) {
