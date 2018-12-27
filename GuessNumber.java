@@ -66,7 +66,7 @@
     	    		
 }
 
-public class hw4 {
+public class GuessNumber {
 	public static void main(String[] args) {
 		java.util.Scanner scanner2 = new java.util.Scanner(System.in);				
 			int a;
